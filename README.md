@@ -120,13 +120,7 @@ Assets/
 ## 라이선스
 
 ```
-MIT License
-
-Copyright (c) ...
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
+본 프로젝트는 자유롭게 사용/수정/배포 가능하며, 상업적 사용 시 출처 표기를 권장합니다.
 ```
 
 ---
