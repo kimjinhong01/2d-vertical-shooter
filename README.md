@@ -1,6 +1,7 @@
 # Unity 2D Top-down 슈팅 게임
 
 ![Game Preview](https://img.youtube.com/vi/RkmjT-Kpox4/0.jpg)
+
 [**데모 영상 보기**](https://youtu.be/RkmjT-Kpox4)
 
 ---
@@ -130,7 +131,8 @@ in the Software without restriction...
 
 ---
 
-## ▶데모 영상 다시 보기
+## 데모 영상 다시 보기
 
 [![Demo Video](https://img.youtube.com/vi/RkmjT-Kpox4/0.jpg)](https://youtu.be/RkmjT-Kpox4)
-🔗 [https://youtu.be/RkmjT-Kpox4](https://youtu.be/RkmjT-Kpox4)
+
+[https://youtu.be/RkmjT-Kpox4](https://youtu.be/RkmjT-Kpox4)
